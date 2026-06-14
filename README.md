@@ -6,6 +6,7 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 **Contact for api :** [https://t.me/dacent87](https://t.me/dacent87)
 ## telegram: @dacent87
 
+
 # Tiktok (Source Code)
 * Private API
 * X-Gorgon
